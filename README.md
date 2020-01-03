@@ -2,16 +2,16 @@
 - The goal of this project is to implement Max-Heap data structures idea using the Java programing language. 
 
 ## How to complier and run the code
-- 
-  1.Download the java source file, which named "MaxHeapTester.java", to your desktop directory.
 
-  2.Go to the command line. (For Windows user, please press Win+R keys and type "cmd" then press enter key. For MacOs user,   please press command+space keys and type "terminal" and press enter key).
+-  1.Download the java source file, which named "MaxHeapTester.java", to your desktop directory.
 
-  3.Type "cd desktop" in command line.
+-  2.Go to the command line. (For Windows user, please press Win+R keys and type "cmd" then press enter key. For MacOs user,   please press command+space keys and type "terminal" and press enter key).
 
-  4.Type "javac MaxHeapTester.java" in command line.
+-  3.Type "cd desktop" in command line.
 
-  5.Type "java MaxHeapTester" in command line.
+-  4.Type "javac MaxHeapTester.java" in command line.
+
+-  5.Type "java MaxHeapTester" in command line.
 
 
 ## implementation
